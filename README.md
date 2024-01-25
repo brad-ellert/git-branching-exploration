@@ -1,4 +1,4 @@
-# brad-ellert
+# Git Branch Exploration
 This repo demonstrates some various git/GitHub workflows using the following example with two feature branches:
 ```
 * 087a238 (bootstrap) Add "Hello, world!" HTML.
