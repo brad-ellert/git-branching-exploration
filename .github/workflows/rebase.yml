@@ -2,6 +2,8 @@ name: Rebase
 on:
   push:
     branches: [development]
+  pull_request:
+    branches: [development]
 jobs:
   rebase:
     runs-on: ubuntu-latest
